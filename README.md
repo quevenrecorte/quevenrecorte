@@ -28,7 +28,7 @@ I build efficient systems across hardware and software — from electronics, PCB
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge)
 ![OrCAD](https://img.shields.io/badge/OrCAD-Capture-CB2027?style=for-the-badge)
 ![Cadence Allegro](https://img.shields.io/badge/Cadence-Allegro-005CAB?style=for-the-badge)
-
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge)
 
 ### Software & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
