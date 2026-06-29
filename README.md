@@ -23,6 +23,12 @@ I build efficient systems across hardware and software — from electronics, PCB
 ![PCB Design](https://img.shields.io/badge/PCB_Design-blue?style=for-the-badge)
 ![Electronics](https://img.shields.io/badge/Electronics-green?style=for-the-badge)
 ![Product Development](https://img.shields.io/badge/Product_Development-orange?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium-Designer-A5915F?style=for-the-badge)
+![Autodesk Eagle](https://img.shields.io/badge/Autodesk-Eagle-F89820?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge)
+![OrCAD](https://img.shields.io/badge/OrCAD-Capture-CB2027?style=for-the-badge)
+![Cadence Allegro](https://img.shields.io/badge/Cadence-Allegro-005CAB?style=for-the-badge)
+
 
 ### Software & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
