@@ -1,4 +1,6 @@
-# Hello 👋 I'm Louie
+# Founder of qCode Systems
+
+Turning ideas into scalable hardware and software solutions.
 
 ### Hardware Engineer | PCB Designer | Product Developer  
 ### System Builder | Vibe Coder | Google Sheets Solutions Architect
