@@ -1,4 +1,4 @@
-# 👨‍💻Founder of qCode Systems
+# ⚡Founder of qCode Systems
 
 Turning ideas into scalable hardware and software solutions.
 
